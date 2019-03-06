@@ -1,0 +1,17 @@
+body {
+	background-image: url(https://www.ewa.hu/wp-content/uploads/2019/02/kivagottfogmosas-utan-e1550153840908.jpg);
+	background-position: center no-repeat;
+	background-size: cover;
+	
+}
+.felirat {
+	font-family: sans-serif;
+	font-size: 40px;
+	margin-top: 33%;
+	margin-bottom: 50px;
+}
+.szerzo {
+	font-family: sans-serif;
+	font-size: 20px;
+	font-style: italic;
+}
